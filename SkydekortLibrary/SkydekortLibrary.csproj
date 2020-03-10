@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Company>Lehdk Development</Company>
+    <Authors>Lehdk</Authors>
+  </PropertyGroup>
+
+</Project>
